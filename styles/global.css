@@ -8,6 +8,7 @@ body {
   width: 1100px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
+  color: #fff;
 }
 
 h1,
@@ -27,6 +28,8 @@ blockquote {
 
 a {
   color: inherit;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
 }
 
 img {
@@ -34,5 +37,15 @@ img {
 }
 
 button {
+  color: inherit;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  padding: 0;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+address {
   font: inherit;
 }
