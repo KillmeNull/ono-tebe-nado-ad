@@ -6,4 +6,4 @@
 
 Чтобы посмотреть проект, откройте файл `index.html` в браузере.
 
-[Репозиторий проекта](https://github.com/KillmeNull/ono-tebe-nado-ad)
+https://github.com/KillmeNull/ono-tebe-nado-ad
